@@ -81,6 +81,8 @@ jobs:
       - name: Packaging final binary
         shell: bash
         run: |
+          cd ci-cd/ci-cd 
+          
           cd target/${{ matrix.job.target }}/release
 
           ####### reduce binary size by removing debug symbols #######
@@ -120,6 +122,6 @@ jobs:
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
-      - run: cargo publish
+      - run:     cd ci-cd/ci-cd && cargo publish
         env:
           CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }}

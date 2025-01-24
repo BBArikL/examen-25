@@ -6,3 +6,4 @@ RUN rustup component add llvm-tools
 
 ADD ci-cd .
 
+ENTRYPOINT [ "bash" ]

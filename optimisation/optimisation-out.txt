@@ -1,0 +1,39 @@
+Opening small.json
+These are the possible activities:
+Activity { week_day: Sat, start_hour: 6, hour_duration: 11, money: 1042.27, fun: 7.91 }
+Activity { week_day: Sat, start_hour: 2, hour_duration: 6, money: 25.07, fun: 4.89 }
+Activity { week_day: Sat, start_hour: 5, hour_duration: 8, money: 144.87, fun: 0.98 }
+Activity { week_day: Thu, start_hour: 22, hour_duration: 1, money: -1.98, fun: 0.7 }
+Activity { week_day: Wed, start_hour: 21, hour_duration: 1, money: 39.7, fun: -0.71 }
+Balance: 1249.93
+Fun: 13.77
+
+Opening medium.json
+These are the possible activities:
+Activity { week_day: Fri, start_hour: 9, hour_duration: 14, money: 624.67, fun: 13.29 }
+Activity { week_day: Mon, start_hour: 6, hour_duration: 12, money: 640.11, fun: 10.58 }
+Activity { week_day: Sat, start_hour: 7, hour_duration: 15, money: 1017.03, fun: 9.84 }
+Activity { week_day: Sun, start_hour: 12, hour_duration: 11, money: 694.56, fun: 7.17 }
+Activity { week_day: Fri, start_hour: 15, hour_duration: 8, money: 457.85, fun: 6.62 }
+Balance: 3434.22
+Fun: 47.49999999999999
+
+Opening large.json
+These are the possible activities:
+Activity { week_day: Fri, start_hour: 1, hour_duration: 22, money: -655.11, fun: 21.53 }
+Activity { week_day: Wed, start_hour: 2, hour_duration: 19, money: 1618.1, fun: 18.1 }
+Activity { week_day: Thu, start_hour: 0, hour_duration: 18, money: 83.02, fun: 17.97 }
+Activity { week_day: Tue, start_hour: 4, hour_duration: 18, money: -207.91, fun: 17.55 }
+Activity { week_day: Thu, start_hour: 0, hour_duration: 18, money: 1333.36, fun: 17.43 }
+Balance: 2171.46
+Fun: 92.58000000000001
+
+Opening xlarge.json
+These are the possible activities:
+Activity { week_day: Mon, start_hour: 0, hour_duration: 22, money: -523.51, fun: 21.36 }
+Activity { week_day: Tue, start_hour: 1, hour_duration: 21, money: 415.54, fun: 20.54 }
+Activity { week_day: Wed, start_hour: 1, hour_duration: 20, money: -306.29, fun: 19.5 }
+Activity { week_day: Fri, start_hour: 2, hour_duration: 21, money: -650.15, fun: 19.41 }
+Activity { week_day: Fri, start_hour: 1, hour_duration: 20, money: -535.31, fun: 19.31 }
+Balance: -1599.7199999999998
+Fun: 100.12

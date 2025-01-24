@@ -21,10 +21,15 @@ python .\checksum.py "STRING MOT FLAG"
 
 En quelle année sommes-nous? (Regarder l'image associée)
 
+1901 - 197
+
 ## Question 2 : Wordle
 
 - 2.1 Quel est le score minimal au Scrabble (Anglophone) si notre banque de mot est celui de Wordle
 - 2.2 Quel est le mot qui peut rapporter le plus de points au Scrabble (Anglophone) si notre banque de mot est celui du Wordle?
+
+- 
+- 
 
 ## Question 3 : Ingénieurs
 
@@ -32,9 +37,14 @@ Je démolis beaucoup de bières
 
 checksum -> 510
 
+42 bières
+
 ## Question 4 : 😐😮😐😮😮😮😮😐😐😮😮😐😐😐😮😮😮😮
 
 checksum -> 105
+
+-.-....--..-----.. ..
+KSWUODI ?
 
 ## Question 5 : RGB
 
@@ -42,9 +52,13 @@ Regarder l'image associée.
 
 checksum -> 116
 
+#31A851 ?
+
 ## Question 6 : Chemin
 
 À quel endroit correspond ce chemin?
+
+floride -> 115 ? (as in le chemin pris par le dernier ouragan en floride) 
 
 ## Question 7 : 200
 

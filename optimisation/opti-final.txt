@@ -1,0 +1,90 @@
+Opening small.json
+Balance: 1212.21
+Fun: 13.780000000000001
+These are the possible activities (5 first):
+Activity { week_day: Sat, start_hour: 6, hour_duration: 11, money: 1042.27, fun: 7.91 }
+Activity { week_day: Sat, start_hour: 2, hour_duration: 6, money: 25.07, fun: 4.89 }
+Activity { week_day: Sat, start_hour: 5, hour_duration: 8, money: 144.87, fun: 0.98 }
+Balance: 1212.21
+Fun: 13.780000000000001
+
+Opening medium.json
+Balance: 10059.790000000003
+Fun: 115.83999999999999
+These are the possible activities (5 first):
+Activity { week_day: Fri, start_hour: 9, hour_duration: 14, money: 624.67, fun: 13.29 }
+Activity { week_day: Mon, start_hour: 6, hour_duration: 12, money: 640.11, fun: 10.58 }
+Activity { week_day: Sat, start_hour: 7, hour_duration: 15, money: 1017.03, fun: 9.84 }
+Activity { week_day: Sun, start_hour: 12, hour_duration: 11, money: 694.56, fun: 7.17 }
+Activity { week_day: Fri, start_hour: 15, hour_duration: 8, money: 457.85, fun: 6.62 }
+Activity { week_day: Sat, start_hour: 15, hour_duration: 7, money: 126.02, fun: 6.22 }
+Activity { week_day: Tue, start_hour: 15, hour_duration: 6, money: 493.8, fun: 5.41 }
+Activity { week_day: Sat, start_hour: 16, hour_duration: 5, money: 127.89, fun: 4.95 }
+Activity { week_day: Thu, start_hour: 18, hour_duration: 5, money: 308.93, fun: 4.89 }
+Activity { week_day: Mon, start_hour: 10, hour_duration: 6, money: 137.46, fun: 4.24 }
+Activity { week_day: Sun, start_hour: 9, hour_duration: 5, money: 279.15, fun: 4.13 }
+Activity { week_day: Sat, start_hour: 6, hour_duration: 10, money: 243.83, fun: 4.1 }
+Activity { week_day: Wed, start_hour: 16, hour_duration: 5, money: 209.09, fun: 4.0 }
+Activity { week_day: Tue, start_hour: 8, hour_duration: 7, money: 21.27, fun: 3.9 }
+Activity { week_day: Thu, start_hour: 4, hour_duration: 13, money: 62.18, fun: 3.73 }
+Activity { week_day: Sat, start_hour: 2, hour_duration: 4, money: 231.81, fun: 2.96 }
+Activity { week_day: Sat, start_hour: 14, hour_duration: 9, money: 510.08, fun: 2.17 }
+Activity { week_day: Sun, start_hour: 1, hour_duration: 7, money: 249.9, fun: 2.09 }
+Activity { week_day: Wed, start_hour: 13, hour_duration: 4, money: 198.98, fun: 1.91 }
+Activity { week_day: Sat, start_hour: 8, hour_duration: 11, money: 501.38, fun: 1.75 }
+Balance: 10059.790000000003
+Fun: 115.83999999999999
+
+Opening large.json
+Balance: 122601.06000000023
+Fun: 1271.3299999999992
+These are the possible activities (5 first):
+Activity { week_day: Wed, start_hour: 2, hour_duration: 19, money: 1618.1, fun: 18.1 }
+Activity { week_day: Thu, start_hour: 0, hour_duration: 18, money: 83.02, fun: 17.97 }
+Activity { week_day: Thu, start_hour: 0, hour_duration: 18, money: 1333.36, fun: 17.43 }
+Activity { week_day: Fri, start_hour: 2, hour_duration: 20, money: 134.53, fun: 16.34 }
+Activity { week_day: Sat, start_hour: 2, hour_duration: 18, money: 1703.61, fun: 16.14 }
+Activity { week_day: Tue, start_hour: 1, hour_duration: 21, money: 1654.77, fun: 16.14 }
+Activity { week_day: Wed, start_hour: 3, hour_duration: 16, money: 923.0, fun: 15.92 }
+Activity { week_day: Sat, start_hour: 0, hour_duration: 16, money: 1535.26, fun: 15.63 }
+Activity { week_day: Sat, start_hour: 0, hour_duration: 20, money: 360.8, fun: 14.61 }
+Activity { week_day: Tue, start_hour: 1, hour_duration: 15, money: 1329.61, fun: 14.51 }
+Activity { week_day: Mon, start_hour: 4, hour_duration: 16, money: 876.14, fun: 14.01 }
+Activity { week_day: Tue, start_hour: 8, hour_duration: 13, money: 864.78, fun: 12.94 }
+Activity { week_day: Tue, start_hour: 3, hour_duration: 19, money: 296.55, fun: 12.83 }
+Activity { week_day: Thu, start_hour: 1, hour_duration: 16, money: 1356.0, fun: 12.34 }
+Activity { week_day: Thu, start_hour: 3, hour_duration: 19, money: 768.19, fun: 12.27 }
+Activity { week_day: Wed, start_hour: 8, hour_duration: 12, money: 765.99, fun: 11.79 }
+Activity { week_day: Tue, start_hour: 5, hour_duration: 15, money: 41.76, fun: 11.75 }
+Activity { week_day: Sun, start_hour: 3, hour_duration: 16, money: 815.27, fun: 11.74 }
+Activity { week_day: Sat, start_hour: 5, hour_duration: 15, money: 190.89, fun: 11.65 }
+Activity { week_day: Tue, start_hour: 3, hour_duration: 19, money: 1706.81, fun: 11.61 }
+Balance: 122601.06000000023
+Fun: 1271.3299999999992
+
+Opening xlarge.json
+Balance: 1231554.1000000008
+Fun: 12267.609999999984
+These are the possible activities (5 first):
+Activity { week_day: Tue, start_hour: 1, hour_duration: 21, money: 415.54, fun: 20.54 }
+Activity { week_day: Fri, start_hour: 0, hour_duration: 23, money: 290.77, fun: 19.2 }
+Activity { week_day: Mon, start_hour: 2, hour_duration: 19, money: 176.24, fun: 18.84 }
+Activity { week_day: Thu, start_hour: 1, hour_duration: 20, money: 1986.64, fun: 18.63 }
+Activity { week_day: Thu, start_hour: 3, hour_duration: 20, money: 1957.89, fun: 18.59 }
+Activity { week_day: Wed, start_hour: 0, hour_duration: 19, money: 1747.95, fun: 18.46 }
+Activity { week_day: Sat, start_hour: 4, hour_duration: 19, money: 1075.5, fun: 18.42 }
+Activity { week_day: Sat, start_hour: 2, hour_duration: 20, money: 647.73, fun: 18.24 }
+Activity { week_day: Mon, start_hour: 2, hour_duration: 20, money: 257.89, fun: 17.94 }
+Activity { week_day: Mon, start_hour: 5, hour_duration: 18, money: 192.88, fun: 17.67 }
+Activity { week_day: Fri, start_hour: 4, hour_duration: 19, money: 1887.31, fun: 17.5 }
+Activity { week_day: Mon, start_hour: 3, hour_duration: 19, money: 787.96, fun: 17.49 }
+Activity { week_day: Fri, start_hour: 5, hour_duration: 18, money: 1693.55, fun: 17.48 }
+Activity { week_day: Mon, start_hour: 1, hour_duration: 18, money: 682.04, fun: 17.42 }
+Activity { week_day: Mon, start_hour: 2, hour_duration: 19, money: 1829.23, fun: 17.32 }
+Activity { week_day: Tue, start_hour: 3, hour_duration: 18, money: 548.97, fun: 17.12 }
+Activity { week_day: Fri, start_hour: 4, hour_duration: 17, money: 633.56, fun: 16.9 }
+Activity { week_day: Sun, start_hour: 2, hour_duration: 19, money: 431.46, fun: 16.78 }
+Activity { week_day: Sun, start_hour: 2, hour_duration: 18, money: 1433.33, fun: 16.77 }
+Activity { week_day: Fri, start_hour: 4, hour_duration: 18, money: 219.15, fun: 16.7 }
+Balance: 1231554.1000000008
+Fun: 12267.609999999984
